@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pod-request/static/css/main.d536cf1b.css",
+    "main.js": "/pod-request/static/js/main.86d73d27.js",
+    "static/js/787.fa48b018.chunk.js": "/pod-request/static/js/787.fa48b018.chunk.js",
+    "static/media/image-host.jpg": "/pod-request/static/media/image-host.1be1435679e9d16319ad.jpg",
+    "static/media/google.svg": "/pod-request/static/media/google.e91a57f8f2ae7555677a6fc24a2272c7.svg",
+    "static/media/apple.svg": "/pod-request/static/media/apple.d1854182034693ff7c690be3f5cee4ed.svg",
+    "static/media/pocket.svg": "/pod-request/static/media/pocket.8beb87ad75e676103606fd1864e1a371.svg",
+    "static/media/spotify.svg": "/pod-request/static/media/spotify.6f8222bb8bd93ed2a74bec685130dccc.svg",
+    "static/media/logo.svg": "/pod-request/static/media/logo.f47677a643c79f406a3c9655e21c58b6.svg",
+    "static/media/dots.svg": "/pod-request/static/media/dots.a2597e7c189c706f735b91fcfeacc326.svg",
+    "index.html": "/pod-request/index.html",
+    "main.d536cf1b.css.map": "/pod-request/static/css/main.d536cf1b.css.map",
+    "main.86d73d27.js.map": "/pod-request/static/js/main.86d73d27.js.map",
+    "787.fa48b018.chunk.js.map": "/pod-request/static/js/787.fa48b018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d536cf1b.css",
+    "static/js/main.86d73d27.js"
+  ]
+}
