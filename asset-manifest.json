@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pod-request/static/css/main.d536cf1b.css",
+    "main.css": "/pod-request/static/css/main.0fc61437.css",
     "main.js": "/pod-request/static/js/main.86d73d27.js",
     "static/js/787.fa48b018.chunk.js": "/pod-request/static/js/787.fa48b018.chunk.js",
     "static/media/image-host.jpg": "/pod-request/static/media/image-host.1be1435679e9d16319ad.jpg",
@@ -11,12 +11,12 @@
     "static/media/logo.svg": "/pod-request/static/media/logo.f47677a643c79f406a3c9655e21c58b6.svg",
     "static/media/dots.svg": "/pod-request/static/media/dots.a2597e7c189c706f735b91fcfeacc326.svg",
     "index.html": "/pod-request/index.html",
-    "main.d536cf1b.css.map": "/pod-request/static/css/main.d536cf1b.css.map",
+    "main.0fc61437.css.map": "/pod-request/static/css/main.0fc61437.css.map",
     "main.86d73d27.js.map": "/pod-request/static/js/main.86d73d27.js.map",
     "787.fa48b018.chunk.js.map": "/pod-request/static/js/787.fa48b018.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d536cf1b.css",
+    "static/css/main.0fc61437.css",
     "static/js/main.86d73d27.js"
   ]
 }
